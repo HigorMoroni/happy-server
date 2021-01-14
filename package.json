@@ -22,10 +22,11 @@
   "homepage": "https://github.com/HigorMoroni/happy-server#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "express-async-errors": "^3.1.1",
     "multer": "^1.4.2",
     "reflect-metadata": "^0.1.13",
     "sqlite3": "^5.0.0",
-    "typeorm": "^0.2.29"
+    "typeorm": "^0.2.29",
   },
   "devDependencies": {
     "@types/express": "^4.17.9",
